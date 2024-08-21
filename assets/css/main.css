@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.leading-normal::before{
+    content: 'Mes';
+    position: absolute;
+    color: #6c305e;
+    font-size: 24px;
+    font-style: italic;
+ }
