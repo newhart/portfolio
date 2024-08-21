@@ -1,7 +1,7 @@
 <template>
     <div class="min-h-screen bg-black flex">
         <SideBarMenu />
-        <div class="w-3/4 container mx-auto py-6 ml-1/4">
+        <div class="w-3/4 container py-6 mx-auto">
             <h1 class="text-6xl text-white leading-normal mt-4 animate-fade-in">COMPÉTENCES</h1>
             <p class="text-white animate-fade-in">Je suis un développeur proactif, toujours à l'affût des dernières tendances en matière de développement, que ce soit pour les applications web, mobiles ou autres.</p>
             <div class="grid grid-cols-5 gap-4 mt-4">

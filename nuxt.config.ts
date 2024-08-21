@@ -25,6 +25,9 @@ export default defineNuxtConfig({
       },
     ],
   ],
+  plugins: [
+    '~/plugins/anime.js'
+  ],
 
   postcss: {
     plugins: {

@@ -65,8 +65,9 @@ const route = useRoute()
     right: -10px;
     top: 0;
     bottom: 0;
-    width: 5px;
+    width: 2px;
     background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.5), transparent);
-    border-radius: 50% / 100%;
+    clip-path: ellipse(50% 100% at 100% 50%); /* Courbe en utilisant ellipse */
+    border-radius: 50%;
 }
 </style>

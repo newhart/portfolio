@@ -1,6 +1,6 @@
 <template>
     <div
-        class="relative min-h-screen w-full h-full flex items-center justify-center bg-cover bg-center bg-[url('~/assets/image/about.jpg')]">
+        class="relative min-h-screen w-full h-full flex items-center justify-center bg-cover bg-[url('~/assets/image/about.jpg')]">
         <SideBarMenu />
         <div class="content flex flex-col items-start justify-center p-10  bg-opacity-75 rounded-l-full">
             <div class="text-section text-left">
@@ -9,8 +9,8 @@
                 <h3 class="text-2xl text-white">Développeur Full-Stack</h3>
                 <p class="text-lg text-white mt-4">Je suis un développeur full-stack résidant à Madagascar, <br>
                     toujours
-                    prêt à me former aux dernières technologies. Mon <br> objectif est de développer <span
-                        class="highlight text-[#6c305e] underline">mes compétences</span> pour <br> pouvoir participer
+                    prêt à me former aux dernières technologies. Mon <br> objectif est de développer <NuxtLink to="/competences"
+                        class="highlight text-[#6c305e] underline">mes compétences</NuxtLink> pour <br> pouvoir participer
                     à des
                     projets
                     ambitieux et à la pointe de l'innovation.</p>

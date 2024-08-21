@@ -7,7 +7,7 @@
             <h1 class="text-6xl text-white leading-normal mt-4 text-center">Mes Réalisations</h1>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
                 <!-- Sorbonne Université -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Sorbonne Université</h2>
                     <p class="mb-4 text-white">Université pluridisciplinaire, de recherche intensive et de rang mondial, située à Paris.</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -18,7 +18,7 @@
                     <img src="~/assets/image/sary/sorbonne.jpg" alt="Sorbonne Université" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
                 <!-- Le magazine 'Sortez' -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Le magazine 'Sortez'</h2>
                     <p class="mb-4 text-white">Magazine mensuel gratuit diffusé sur les Alpes-Maritimes.</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -31,7 +31,7 @@
                     <img src="~/assets/image/sary/sortez.jpg" alt="Le magazine 'Sortez'"  class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
                 <!-- Noah Voyages -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Noah Voyages</h2>
                     <p class="mb-4 text-white">Site touristique</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -44,7 +44,7 @@
                 </div>
 
                 <!-- share my hobbies -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">ShareMyHobbies</h2>
                     <p class="mb-4 text-white">Réseau social/ partage de hobbies</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -57,7 +57,7 @@
                 </div>
 
                 <!-- albert menes -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Albert Menes</h2>
                     <p class="mb-4 text-white">Magasin en ligne</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -69,7 +69,7 @@
                 </div>
 
                 <!-- Nudacy record -->
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Nudacy Records</h2>
                     <p class="mb-4 text-white">Plateforme de streaming et de téléchargement</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -79,7 +79,7 @@
                     <img src="~/assets/image/sary/nudacy.jpg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Oxentt-business</h2>
                     <p class="mb-4 text-white">Site de business</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -91,7 +91,7 @@
                     <img src="~/assets/image/sary/oxentt.jpg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Your soccer-games</h2>
                     <p class="mb-4 text-white">Site e-commerce vente match video</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -101,7 +101,7 @@
                     <img src="~/assets/image/sary/soccer.jpg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Footbal database</h2>
                     <p class="mb-4 text-white">Plateforme statistique footbal</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -111,7 +111,7 @@
                     <img src="~/assets/image/sary/database.jpg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Sfeira</h2>
                     <p class="mb-4 text-white">Application mobile de football reseaux sociaux</p>
                     <ul class="list-disc list-inside mb-4 text-white">
@@ -121,7 +121,7 @@
                     <img src="~/assets/image/sary/sfeira.jpg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Sita news</h2>
                     <p class="mb-4 text-white">Média d'actualité culturelle et artistique axé sur l'Afrique et sa diaspora.
                     </p>
@@ -132,7 +132,7 @@
                     <img src="~/assets/image/sary/final.jpeg" alt="Noah Voyages" class="w-32 mx-auto absolute bottom-[-20px] left-[25%]">
                 </div>
 
-                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative">
+                <div class="p-4 rounded-lg shadow-lg border border-white bg-black relative ">
                     <h2 class="text-2xl font-semibold mb-4 text-[#6c305e]">Lavash travel</h2>
                     <p class="mb-4 text-white">Site web touristique</p>
                     <ul class="list-disc list-inside mb-4 text-white">

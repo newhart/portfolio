@@ -28,7 +28,7 @@
         </div>
      </div>
 
-     <div class="col-span-5 flex justify-center space-x-16 relative mt[-20%]" >
+     <div class="col-span-5 flex justify-center space-x-16 relative mt-[-69px]" >
         <h1 class="text-xl text-white stages relative">STAGES</h1>
         <div class="ml-5">
             <h2 class="text-3xl text-[#6c305e] font-bold">STAGIAIRE/DEVELOPPEUR WEB</h2>
